@@ -12,7 +12,7 @@ O **HelpBox** é uma plataforma destinada ao **cadasto e gerenciamento de chamad
 
 ## 🔹 Caso de Uso
 
-![Caso de Uso](https://github.com/user-attachments/assets/14961362-c99a-4772-adf4-89b03044e009)
+![Caso de Uso](https://github.com/user-attachments/assets/14961362-c99a-4772-adf4-89b03044e009) [Acesse a pasta do caso de uso](https://github.com/micaiasviola/HelpBox/tree/main/HelpBox/An%C3%A1lise)
 
 ---
 
@@ -23,7 +23,7 @@ O **HelpBox** é uma plataforma destinada ao **cadasto e gerenciamento de chamad
 
 ---
 
-## 🔹 Captura de Tela
+## 🔹 Manual do Usuário
 
 ![Tela do HelpBox](https://github.com/user-attachments/assets/720919c2-420e-4943-9aa6-e503bb8228c4)
 
