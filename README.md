@@ -18,7 +18,8 @@ O **HelpBox** é uma plataforma destinada ao **cadasto e gerenciamento de chamad
 
 ## 🔹 Modelo Conceitual do Banco de Dados
 
-![Modelo Conceitual](https://github.com/user-attachments/assets/7eb66917-1ca5-440a-a801-f743a489eb63)
+![DER CONCEITUAL FOTO](https://github.com/user-attachments/assets/bf62f7bc-110a-43de-824d-549a745dd13d)
+
 
 ---
 
@@ -36,6 +37,8 @@ O **HelpBox** é uma plataforma destinada ao **cadasto e gerenciamento de chamad
 - PHP
 - HTML
 - CSS
+- Javascript
+- React
 
 ---
 
@@ -50,14 +53,5 @@ Este repositório é distribuído sob a licença [MIT](LICENSE).
 Contribuição é sempre bem-vinda!  
 Informe um *issue* ou mande um *pull request*.  
 
----
 
-✨ Se quiser, também ajudo a preparar:  
-- Badges
-- Uma tabela de conteúdos
-- Uma seção de instalação
-- Um script de execução
-- Uma seção de *contributors*
-  
-Informe o que quer acrescentar! 🌟
 
