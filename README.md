@@ -21,6 +21,8 @@ O **HelpBox** é uma plataforma destinada ao **cadasto e gerenciamento de chamad
 ## 🔹 Modelo Conceitual do Banco de Dados
 
 ![DER CONCEITUAL FOTO](https://github.com/user-attachments/assets/bf62f7bc-110a-43de-824d-549a745dd13d)
+---
+[Acesse a pasta do banco de dados](https://github.com/micaiasviola/HelpBox/tree/main/HelpBox/Banco%20de%20Dados)
 
 
 ---
