@@ -6,4 +6,4 @@ Sistema de cadastro interno para chamados de empresas
 Caso de Uso
 
 ![image](https://github.com/user-attachments/assets/14961362-c99a-4772-adf4-89b03044e009)
-![image](https://github.com/user-attachments/assets/14961362-c99a-4772-adf4-89b03044e009)
+
