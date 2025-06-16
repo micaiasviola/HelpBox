@@ -30,6 +30,8 @@ O **HelpBox** é uma plataforma destinada ao **cadasto e gerenciamento de chamad
 ## 🔹 Manual do Usuário
 
 ![Tela do HelpBox](https://github.com/user-attachments/assets/720919c2-420e-4943-9aa6-e503bb8228c4)
+---
+[Acesse o manual do usuario](https://github.com/micaiasviola/HelpBox/tree/main/HelpBox/Manual%20HELPBOX)
 
 ---
 
